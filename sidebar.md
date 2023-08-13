@@ -1,1 +1,2 @@
-<a style="width: 10%; height: 100%;position: fixed; top: 4rem; left: 0rem; border: 0; right: 0;" aria-hidden="true">components:test</a>
+<a style="width: 10%; height: 100%;position: fixed; top: 4rem; left: 0rem;">components:test</a>
+sidebartest
